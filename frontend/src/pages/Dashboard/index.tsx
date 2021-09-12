@@ -19,7 +19,7 @@ const Dashboard = () => {
 
                     <div className="col-sm-6">
                         <h5 className="text-center text-secondary">Todas as vendas</h5>
-                        <DonutChart />
+                        <DonutChart/>
                     </div>
                 </div>
 
